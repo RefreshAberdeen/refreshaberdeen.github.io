@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Aberdeen MOC"
+date:   2014-06-29 09:40:05
+categories: events
+tags: craft events 
+linkto: https://www.facebook.com/AberdeenMOC
+twitter: AberdeenMOC 
+facebook: AberdeenMOC
+assets: moc
+
+---
+
+Craft and local fair to be held the 1st Saturday of every month. At the Methodist church on Crown Terrace.

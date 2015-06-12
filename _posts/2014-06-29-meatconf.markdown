@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Meatconf"
+date:   2014-06-29 09:40:05
+categories: events
+tags:  events design talks
+linkto: http://themeat.in
+twitter: meatconf
+fb: TheMeatConference
+assets: themeat
+---
+
+ 
+
+The [The Meat Conf](http://themeat.in) is an annual design conference in Aberdeen. It started in **May 2014** featuring the likes of Aaron Draplin, Gavin Strange and James White.  

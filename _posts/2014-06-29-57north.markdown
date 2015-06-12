@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "57 North"
+date:   2014-06-29 09:42:05
+categories: venue 
+tags: code events venue maker
+linkto: https://57north.co/
+twitter: 57NorthHacklab 
+assets: 57north
+
+---
+
+57North is a proper hacker space. Electronics, Software, Materials and Comms hacking. Also run a calendar of events that you can find at [opentechcalendar](http://opentechcalendar.co.uk/venue/51-57north-hacklab). 

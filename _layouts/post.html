@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="post">
+
+
+
+  <header class="post-header">
+
+        <a href="{{ page.linkto }}"><img src="/assets/{{ page.assets }}/letter.jpg" alt="{{ page.title }}" ></a>
+    <h1>{{ page.title }}</h1>
+ 
+  </header>
+
+  <article class="post-content">
+
+  {{ content }}
+
+	<p><a href="{{ page.linkto }}">Visit {{page.title}}</a></p>
+ 
+	<aside class="externals">
+		{% if page.twitter %}
+			<a href="http://twitter.com/{{ page.twitter }}" ><i class="fa fa-twitter fa-3x"></i> </a>
+		{% endif %}
+		{% if page.facebook %}
+			<a href="http://facebook.com/{{ page.facebook }}" ><i class="fa fa-facebook fa-3x"></i> </a>
+		{% endif %}
+
+		{% if page.github %}
+		 	<a href="http://github.com/{{ page.github }}"><i class="fa fa-github fa-3x"></i> </a>
+		{% endif %}
+	</aside>
+
+
+  </article>
+
+</div>

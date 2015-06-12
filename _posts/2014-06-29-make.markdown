@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Make Aberdeen"
+date:   2014-06-29 12:10:05
+categories: venue 
+tags: venue maker craft
+linkto: http://www.make-aberdeen.com/
+twitter: makeaberdeen 
+assets: make
+
+---
+
+A fablab / maker space in the city centre with an array of rapid prototyping equipment like 3D printers, CNC, laser cutters...  

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pecha Kucha Aberdeen"
+date:   2014-06-29 09:40:05
+categories: events
+tags: events talks
+linkto: http://www.pechakucha.org/cities/aberdeen
+twitter: hapsci 
+assets: pk
+
+---
+
+An occassional series of pecha kucha events in Aberdeen.  20 images x 20 seconds for a series of quick, diverse, interesting talks.

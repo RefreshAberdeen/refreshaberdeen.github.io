@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NEC Meetups"
+date:   2014-06-29 09:55:05
+categories: events
+tags: events talks
+linkto: http://www.eventbrite.co.uk/o/studionec-abn-community-6756219785?s=26106833
+twitter: NEC_Meetups 
+assets: nec
+
+---
+
+A monthly networking event focussing on creativity and business.  

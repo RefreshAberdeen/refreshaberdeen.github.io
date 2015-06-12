@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Aberdeen positive"
+date:   2014-06-29 09:30:05
+categories: events
+linkto: http://positiveaberdeen.wordpress.com
+twitter: ABpoz
+assets: abplus
+---
+
+A forum in which all cultural practitioners and agencies can interact, running an occassional series of events.

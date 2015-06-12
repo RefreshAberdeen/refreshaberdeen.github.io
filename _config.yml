@@ -1,0 +1,11 @@
+# Site settings
+title: Refresh Aberdeen
+email: steve@refreshaberdeen.com
+description: "A hub of interesting events, venues, and projects of interest to the creative, design, web, tech and startup communities in Aberdeen. Basically anything of interest to <a href='http://stevenmilne.com'>Steve</a>. If I've missed anything please <a href='mailto:steve@refreshaberdeen.com'>let me know</a>. "
+baseurl: ""
+url: "http://refreshaberdeen.com"
+username: "refreshaberdeen"
+
+# Build settings
+markdown: kramdown
+permalink: none

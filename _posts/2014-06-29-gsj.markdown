@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Global Service Jam"
+date:   2014-06-29 09:40:05
+categories: events  
+tags: events servicedesign design
+linkto: https://gsjaberdeen.org
+twitter: gsjaberdeen
+fb:  
+assets: gsj
+---
+
+If you have an interest in service design, this is a must. Next event over the weekend 27 February to 1 March 2015. 

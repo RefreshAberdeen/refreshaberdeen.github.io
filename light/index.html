@@ -1,0 +1,11 @@
+---
+layout: textonly
+---
+	<div class="home">
+		<p>A quicklink version of <a href="/">refresh aberdeen</a> giving direct links to each site. </p>
+	  <ul class="posts">
+	    {% for post in site.posts %}
+	      <li class="{% for tag in post.tags %}tag-{{tag}} {% endfor %} "><a class="post-link" href="{{ post.linkto }}">{{ post.title }}</a> {% for tag in post.tags %}{{tag}} {% endfor %}</li>
+	    {% endfor %}
+	  </ul> 
+	</div>

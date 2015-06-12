@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Creative Aberdeen CRABMEAT"
+date: 2014-06-29 09:45:05
+categories: events
+tags: code events free talks
+linkto: http://creativeaberdeen.co.uk/
+twitter: CreativAberdeen 
+assets: creativaberdeen
+
+---
+
+The Creative Aberdeen Meet is a monthly get together for people who work or study in anything creative in Aberdeen. Whether you’re a web designer, digital designer, artist, musician, photographer, coder or freelancer.
+
+Every second Tuesday of the month at 6 Degrees North in Aberdeen. 
+
