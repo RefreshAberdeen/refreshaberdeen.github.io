@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "DevBar"
+date:   2014-06-29 12:10:05
+categories: venue 
+tags: venue maker craft
+linkto: http://devbar.co.uk/
+twitter: devbarchallenge 
+assets: devbar
+
+---
+
+DevBar is a one day creative marathon, pitching teams of developers, designers, project managers, thinkers and whoever-else's against each other in Aberdeen. 
