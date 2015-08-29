@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevBar"
-date:   2014-06-29 12:10:05
+date:   2014-08-29 12:10:05
 categories: venue 
 tags: venue maker craft
 linkto: http://devbar.co.uk/

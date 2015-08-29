@@ -1,0 +1,14 @@
+---
+layout: post
+title: "PHP User Group aberdeen"
+date: 2014-08-28 09:40:05
+categories: events
+tags: code events free talks php
+linkto: http://www.aberdeenphp.co.uk/
+twitter: aberdeenphp 
+assets: abphp
+
+---
+
+Monthly PHP community meetup organised by [Danny Wilson](http://iamdannywilson.com/), held at the [fifthring](http://fifthring.com) offices on Huntly Street. 
+
